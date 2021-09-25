@@ -1,1 +1,3 @@
 # pineapple
+
+![Pineapple](pineapple.png)
